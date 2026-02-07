@@ -39,8 +39,8 @@ After evaluating predictive accuracy, profitability, and financial risk, Region 
 
 ### Key Findings
 - Highest Model Precision: RMSE of 0.89
-- Highest Average Profit: $6'343,278.00
-- Lowest Financial Risk: Probability of Loss is 0.5%
+- Highest Average Profit: $6'487,234.57
+- Lowest Financial Risk: Probability of Loss is 0.2%
 
 ## ▶️ How to Run the Project
 
