@@ -6,28 +6,32 @@ Expected profits and financial risks are evaluated using bootstrapping simulatio
 
 ## 📊 Dataset Description
 The dataset contains geological exploration data from three regions, including:
-•	Oil reserve volume estimates
-•	Geological characteristics of wells
-•	Regional production data
+- Oil reserve volume estimates
+- Geological characteristics of wells
+- Regional production data
+
 Each dataset represents a potential drilling region used for predictive modeling and profitability evaluation.
 
 ## ⚙️ Methodology
 The project follows an end-to-end data science workflow:
 1. Data Preprocessing
-•	Data cleaning and validation
-•	Feature selection
-•	Train/test splitting
+- Data cleaning and validation
+- Feature selection
+- Train/test splitting
+
 2. Model Development
-•	Linear Regression models trained separately for each region
-•	Prediction of oil reserve volumes for new wells
+- Linear Regression models trained separately for each region
+- Prediction of oil reserve volumes for new wells
+
 3. Model Evaluation
-•	Performance measured using Root Mean Squared Error (RMSE)
-•	Model precision compared across regions
+- Performance measured using Root Mean Squared Error (RMSE)
+- Model precision compared across regions
+
 4. Risk & Profitability Analysis
-•	Bootstrapping simulation to estimate:
-o	Expected profit distribution
-o	Probability of financial losses
-o	Investment risk assessment
+- Bootstrapping simulation to estimate:
+   - Expected profit distribution
+   - Probability of financial losses
+   - Investment risk assessment
 
 ## 📈 Project Highlights
 - Built regression models to predict oil reserves
