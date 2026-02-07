@@ -41,3 +41,9 @@ After evaluating predictive accuracy, profitability, and financial risk, Region 
 - Highest Model Precision: RMSE of 0.89
 - Highest Average Profit: $6'343,278.00
 - Lowest Financial Risk: Probability of Loss is 0.5%
+
+## ▶️ How to Run the Project
+git clone https://github.com/alangudi417/ml-oil-well-profitability-model.git
+cd ml-oil-well-profitability-model
+pip install -r requirements.txt
+jupyter notebook
