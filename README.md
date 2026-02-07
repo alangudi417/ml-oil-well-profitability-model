@@ -43,7 +43,23 @@ After evaluating predictive accuracy, profitability, and financial risk, Region 
 - Lowest Financial Risk: Probability of Loss is 0.5%
 
 ## ▶️ How to Run the Project
-- git clone https://github.com/alangudi417/ml-oil-well-profitability-model.git
-- cd ml-oil-well-profitability-model
-- pip install -r requirements.txt
-- jupyter notebook
+
+1. Clone this repository:
+   git clone https://github.com/alangudi417/ml-oil-well-profitability-model.git
+
+2. Navigate to the project folder:
+   cd ml-oil-well-profitability-model
+
+3. Create and activate virtual environment:
+   python -m venv venv
+   venv\Scripts\activate   # Windows
+   source venv/bin/activate  # Mac/Linux
+
+4. Install dependencies:
+   pip install -r requirements.txt
+
+5. Launch Jupyter Notebook:
+   jupyter notebook
+
+6. Open
+   notebooks/oil_profit_analysis.ipynb
